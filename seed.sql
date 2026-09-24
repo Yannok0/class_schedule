@@ -1,6 +1,6 @@
 INSERT INTO groups (name)
 VALUES
-    ('ИС-223'),
+    ('ИС-111'),
     ('ИС-222');
 
 INSERT INTO teachers (full_name)
